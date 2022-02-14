@@ -2,7 +2,7 @@
 {
     public enum PokemonType
     {
-        Unknown,
+        Unknown = 0,
         Bug,
         Dark,
         Dragon,

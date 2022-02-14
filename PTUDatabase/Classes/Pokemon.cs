@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +8,7 @@ namespace PTUDatabase.Classes
 {
     public record Pokemon
     {
-        /*
+        *//*
          * Pokmeon have:
          * Species name
          * Regular / given name?
@@ -23,7 +23,7 @@ namespace PTUDatabase.Classes
          * Skills
          * Edges?
          * Held Item?
-         */
+         *//*
 
         public Species SpeciesName { get; init; }
         public String CharacterName { get; init; } = "Nugget Boi";
@@ -52,3 +52,4 @@ namespace PTUDatabase.Classes
 
     }
 }
+*/
